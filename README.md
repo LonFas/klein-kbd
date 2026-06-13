@@ -10,7 +10,8 @@ The keymap is designed to be easily modified using a graphical user interface.
 
 ## 🛠️ Tech Stack & Tools
 
-* **Keyboard:** [snsten/Klein](https://github.com/snsten/Klein) — A sleek, ergonomic split keyboard.
+* **Keyboard:** [snsten/Klein](https://github.com/snsten/Klein) - A sleek, ergonomic split keyboard.
+* **Original kbd repo** [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - old repo
 * **Firmware:** [ZMK Firmware](https://zmk.dev/)
 * **GUI Editor:** [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/) by Nick Coutsos (used for visual layout editing).
 
@@ -23,7 +24,7 @@ To modify the keymap layout using a user-friendly interface:
 1. **Fork or clone** this repository.
 2. Open the [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/).
 3. Grant the Keymap Editor application access to your repository.
-4. Make your changes visually — the tool will automatically commit them back to your GitHub repo.
+4. Make your changes visually - the tool will automatically commit them back to your GitHub repo.
 
 ### 2. Building and Flashing
 > [!IMPORTANT]  
