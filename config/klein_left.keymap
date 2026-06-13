@@ -42,7 +42,6 @@
 &kp Z          &kp X          &kp C          &kp V          &kp B               &kp N          &kp M          &kp COMMA      &kp DOT        &kp FSLH
 &lt MEDIA ESC  &lt NAV SPACE  &lt BLU TAB    &bootloader                                       &kp K_MUTE     &lt SYM RET    &lt NUM BKSP   &lt FUN DEL
             >;
-        sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         nav_layer {
@@ -53,7 +52,6 @@
 &trans         &trans         &trans         &trans         &trans              &kp INSERT     &kp HOME       &kp PG_UP      &kp PG_DN      &kp END
 &trans         &trans         &trans         &bootloader                                       &bt BT_NXT     &kp RET        &kp BKSP       &kp DEL
             >;
-        sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         num_layer {
@@ -64,7 +62,6 @@
 &kp GRAVE      &kp N1         &kp N2         &kp N3         &kp BSLH            &trans         &trans         &trans         &trans         &trans
 &kp PERIOD     &kp N0         &kp MINUS      &bootloader                                       &bootloader    &trans         &trans         &trans
             >;
-        sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         fun_layer {
@@ -75,7 +72,6 @@
 &kp F10        &kp F1         &kp F2         &kp F3         &kp PAUSE_BREAK     &trans         &trans         &trans         &trans         &trans
 &kp ESC        &kp SPACE      &kp TAB        &bootloader                                       &bootloader    &trans         &trans         &trans
             >;
-        sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         sym_layer {
@@ -86,7 +82,6 @@
 &kp LS(GRAVE)  &kp LS(N1)     &kp LS(N2)     &kp LS(N3)     &kp LS(BSLH)        &trans         &trans         &trans         &trans         &trans
 &kp LS(PERIOD) &kp LS(N0)     &kp LS(MINUS)  &bootloader                                       &bootloader    &trans         &trans         &trans
             >;
-        sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         media_layer {
@@ -97,7 +92,6 @@
 &trans         &trans         &trans         &trans         &trans              &trans         &trans         &trans         &trans         &trans
 &trans         &trans         &trans         &bootloader                                       &bootloader    &kp K_STOP2    &kp K_PP       &kp K_MUTE
             >;
-        sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         blu_layer {
