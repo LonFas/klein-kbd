@@ -41,6 +41,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3)                                 RC(3,6) RC(3,7) 
             , <&xiao_d 3 GPIO_ACTIVE_HIGH>
             ;
 	};
+};
 
     &xiao_i2c {
         status = "okay";
