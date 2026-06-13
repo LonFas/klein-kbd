@@ -10,10 +10,10 @@ The keymap is designed to be easily modified using a graphical user interface.
 
 ## 🛠️ Tech Stack & Tools
 
-* **Keyboard:** [snsten/Klein](https://github.com/snsten/Klein) - A sleek, ergonomic split keyboard.
-* **Orig kbd fw repo** [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - old firmware repo for my keyboard
-* **Firmware:** [ZMK Firmware](https://zmk.dev/)
-* **GUI Editor:** [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/) by Nick Coutsos (used for visual layout editing).
+* **Keyboard:** [snsten/Klein](https://github.com/snsten/Klein) – A sleek, ergonomic split keyboard.
+* **Firmware:** [ZMK Firmware](https://zmk.dev/) (customized layout).
+* **Original Firmware:** [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) – The original firmware repository for reference.
+* **Keymap Editor:** [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/) – A web-based visual layout configurator.
 
 ---
 
