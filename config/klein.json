@@ -1,5 +1,5 @@
 {
-    "keyboard_name": "Klein (Sweep Layout)",
+    "keyboard_name": "Klein",
     "url": "",
     "maintainer": "local",
     "width": 12.5,
@@ -7,10 +7,10 @@
     "layouts": {
         "LAYOUT": {
             "layout": [
-                {"label":"Q", "x":0, "y":0.375}, {"label":"W", "x":1, "y":0.125}, {"label":"E", "x":2, "y":0}, {"label":"R", "x":3, "y":0.125}, {"label":"T", "x":4, "y":0.25},                                     {"label":"Y", "x":7.5, "y":0.25}, {"label":"U", "x":8.5, "y":0.125}, {"label":"I", "x":9.5, "y":0}, {"label":"O", "x":10.5, "y":0.125}, {"label":"P", "x":11.5, "y":0.375},
-                {"label":"A", "x":0, "y":1.375}, {"label":"S", "x":1, "y":1.125}, {"label":"D", "x":2, "y":1}, {"label":"F", "x":3, "y":1.125}, {"label":"G", "x":4, "y":1.25},                                     {"label":"H", "x":7.5, "y":1.25}, {"label":"J", "x":8.5, "y":1.125}, {"label":"K", "x":9.5, "y":1}, {"label":"L", "x":10.5, "y":1.125}, {"label":"SEMI", "x":11.5, "y":1.375},
-                {"label":"Z", "x":0, "y":2.375}, {"label":"X", "x":1, "y":2.125}, {"label":"C", "x":2, "y":2}, {"label":"V", "x":3, "y":2.125}, {"label":"B", "x":4, "y":2.25},                                     {"label":"N", "x":7.5, "y":2.25}, {"label":"M", "x":8.5, "y":2.125}, {"label":"COMMA", "x":9.5, "y":2}, {"label":"DOT", "x":10.5, "y":2.125}, {"label":"SLASH", "x":11.5, "y":2.375},
-                                                                                  {"label":"LCTRL", "x":2.5, "y":3.25}, {"label":"SPC", "x":3.5, "y":3.25}, {"label":"LALT", "x":4.5, "y":3.25},     {"label":"RGUI", "x":7, "y":3.25}, {"label":"ENTER", "x":8, "y":3.25}, {"label":"RALT", "x":9, "y":3.25}
+                {"label":"Q", "x":0, "y":0.375, "row":0, "col":0}, {"label":"W", "x":1, "y":0.125, "row":0, "col":1}, {"label":"E", "x":2, "y":0, "row":0, "col":2}, {"label":"R", "x":3, "y":0.125, "row":0, "col":3}, {"label":"T", "x":4, "y":0.25, "row":0, "col":4},                                     {"label":"Y", "x":7.5, "y":0.25, "row":0, "col":5}, {"label":"U", "x":8.5, "y":0.125, "row":0, "col":6}, {"label":"I", "x":9.5, "y":0, "row":0, "col":7}, {"label":"O", "x":10.5, "y":0.125, "row":0, "col":8}, {"label":"P", "x":11.5, "y":0.375, "row":0, "col":9},
+                {"label":"A", "x":0, "y":1.375, "row":1, "col":0}, {"label":"S", "x":1, "y":1.125, "row":1, "col":1}, {"label":"D", "x":2, "y":1, "row":1, "col":2}, {"label":"F", "x":3, "y":1.125, "row":1, "col":3}, {"label":"G", "x":4, "y":1.25, "row":1, "col":4},                                     {"label":"H", "x":7.5, "y":1.25, "row":1, "col":5}, {"label":"J", "x":8.5, "y":1.125, "row":1, "col":6}, {"label":"K", "x":9.5, "y":1, "row":1, "col":7}, {"label":"L", "x":10.5, "y":1.125, "row":1, "col":8}, {"label":"SEMI", "x":11.5, "y":1.375, "row":1, "col":9},
+                {"label":"Z", "x":0, "y":2.375, "row":2, "col":0}, {"label":"X", "x":1, "y":2.125, "row":2, "col":1}, {"label":"C", "x":2, "y":2, "row":2, "col":2}, {"label":"V", "x":3, "y":2.125, "row":2, "col":3}, {"label":"B", "x":4, "y":2.25, "row":2, "col":4},                                     {"label":"N", "x":7.5, "y":2.25, "row":2, "col":5}, {"label":"M", "x":8.5, "y":2.125, "row":2, "col":6}, {"label":"COMMA", "x":9.5, "y":2, "row":2, "col":7}, {"label":"DOT", "x":10.5, "y":2.125, "row":2, "col":8}, {"label":"SLASH", "x":11.5, "y":2.375, "row":2, "col":9},
+                                                                                  {"label":"LCTRL", "x":2.5, "y":3.25, "row":3, "col":2}, {"label":"SPC", "x":3.5, "y":3.25, "row":3, "col":3}, {"label":"LALT", "x":4.5, "y":3.25, "row":3, "col":4},     {"label":"RGUI", "x":7, "y":3.25, "row":3, "col":5}, {"label":"ENTER", "x":8, "y":3.25, "row":3, "col":6}, {"label":"RALT", "x":9, "y":3.25, "row":3, "col":7}
             ]
         }
     }
